@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+aiohttp
+flask
+yt-dlp
+shazamio
